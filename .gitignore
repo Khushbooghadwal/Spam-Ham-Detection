@@ -146,4 +146,4 @@ Data
 /artifact
 *.code-workspace
 Data
-
+venv/
